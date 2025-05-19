@@ -4,11 +4,7 @@
 
 Este é um projeto de **Relógio Digital** feito com HTML, CSS e JavaScript. Ele exibe em tempo real as horas, minutos e segundos, atualizando automaticamente a cada segundo. O layout é moderno, com um visual elegante e responsivo.
 
----
 
-## 📸 Demonstração
-
-![Relógio Digital](./Captura%20de%20tela%202025-05-19%20141330.png)
 
 ---
 
@@ -36,8 +32,4 @@ Este é um projeto de **Relógio Digital** feito com HTML, CSS e JavaScript. Ele
 
 ---
 
-## 🚀 Como usar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seuusuario/relogio-digital.git
