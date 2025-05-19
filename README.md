@@ -14,8 +14,8 @@ Este é um projeto de **Relógio Digital** feito com HTML, CSS e JavaScript. Ele
 
 ## 🔗 Link do Projeto
 
-[🔗 Acesse aqui](https://seuusuario.github.io/relogio-digital/)  
-> *(substitua pelo link real do GitHub Pages se tiver publicado)*
+[🔗 Acesse aqui](https://joaovitorgoncalvessantos1.github.io/Relogio-digital/)  
+> 
 
 ---
 
